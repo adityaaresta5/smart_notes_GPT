@@ -2,27 +2,22 @@
   "id": "note_ob36apti",
   "title": "Test coba",
   "slug": "test-coba",
-  "updatedAt": "2026-05-07T11:53:10.054Z",
+  "updatedAt": "2026-05-07T12:02:16.617Z",
   "blocks": [
-    {
-      "id": "blk_4iva3tn2",
-      "type": "paragraph",
-      "content": "Test"
-    },
     {
       "id": "blk_mxcrs5h3",
       "type": "heading1",
       "content": "Test"
     },
     {
-      "id": "blk_5vtpj1j4",
+      "id": "blk_5k7gp5lc",
       "type": "image",
-      "src": "/api/github/image?path=assets%2Fimages%2Ftest-coba-blk_5vtpj1j4.png",
+      "src": "/api/github/image?path=assets%2Fimages%2Ftest-coba-blk_5k7gp5lc.png",
       "alt": "Pasted image",
       "content": "",
-      "width": 168,
-      "height": 304,
-      "githubPath": "assets/images/test-coba-blk_5vtpj1j4.png"
+      "width": 239,
+      "height": 310,
+      "githubPath": "assets/images/test-coba-blk_5k7gp5lc.png"
     }
   ]
 }
