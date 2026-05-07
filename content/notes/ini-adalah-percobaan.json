@@ -2,21 +2,23 @@
   "id": "note_6bjx5i5y",
   "title": "Ini adalah percobaan",
   "slug": "ini-adalah-percobaan",
-  "updatedAt": "2026-05-07T08:35:07.111Z",
+  "updatedAt": "2026-05-07T08:43:49.693Z",
   "blocks": [
     {
       "id": "blk_nyxtb7ni",
       "type": "paragraph",
-      "content": "ini adalah percobaan"
+      "content": "Test test test"
     },
     {
-      "id": "blk_zi242npg",
-      "type": "image",
-      "src": "https://raw.githubusercontent.com/adityaaresta5/smart_notes_GPT/main/assets/images/ini-adalah-percobaan-blk_zi242npg.png",
-      "alt": "Pasted image",
+      "id": "blk_z6vbppcq",
+      "type": "spacer",
       "content": "",
-      "width": 149,
-      "height": 280
+      "height": 9
+    },
+    {
+      "id": "blk_l4umhxrx",
+      "type": "code",
+      "content": "# systemctl status httpd"
     }
   ]
 }
