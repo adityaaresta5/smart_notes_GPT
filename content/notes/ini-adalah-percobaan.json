@@ -1,0 +1,22 @@
+{
+  "id": "note_6bjx5i5y",
+  "title": "Ini adalah percobaan",
+  "slug": "ini-adalah-percobaan",
+  "updatedAt": "2026-05-07T08:35:07.111Z",
+  "blocks": [
+    {
+      "id": "blk_nyxtb7ni",
+      "type": "paragraph",
+      "content": "ini adalah percobaan"
+    },
+    {
+      "id": "blk_zi242npg",
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/adityaaresta5/smart_notes_GPT/main/assets/images/ini-adalah-percobaan-blk_zi242npg.png",
+      "alt": "Pasted image",
+      "content": "",
+      "width": 149,
+      "height": 280
+    }
+  ]
+}
