@@ -2,22 +2,12 @@
   "id": "note_z3uue1u6",
   "title": "Wang dong",
   "slug": "wang-dong",
-  "updatedAt": "2026-05-07T12:31:50.467Z",
+  "updatedAt": "2026-05-07T12:33:03.989Z",
   "blocks": [
     {
       "id": "blk_evx87y9x",
       "type": "paragraph",
-      "content": "Wang dong"
-    },
-    {
-      "id": "blk_oimf2sk4",
-      "type": "image",
-      "src": "/api/github/image?path=assets%2Fimages%2Fwang-dong-blk_oimf2sk4.png",
-      "alt": "Pasted image",
-      "content": "",
-      "width": 189,
-      "height": 313,
-      "githubPath": "assets/images/wang-dong-blk_oimf2sk4.png"
+      "content": "https://www.canva.com/brand/join?token=NoRKzdtF6qBxPsw0zRt2WQ&referrer=team-invite"
     }
   ]
 }
