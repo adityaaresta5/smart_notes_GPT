@@ -1,22 +1,17 @@
 {
-  "id": "note_fok7ljt5",
+  "id": "note_rktc9pjl",
   "title": "Gambar Wanita",
   "slug": "gambar-wanita",
-  "updatedAt": "2026-05-07T08:48:15.318Z",
+  "updatedAt": "2026-05-07T08:53:00.457Z",
   "blocks": [
     {
-      "id": "blk_55p487lc",
-      "type": "paragraph",
-      "content": "Ini Percobaan aja yah"
-    },
-    {
-      "id": "blk_ctapvoua",
+      "id": "blk_k7rk6sgq",
       "type": "image",
-      "src": "https://raw.githubusercontent.com/adityaaresta5/smart_notes_GPT/main/assets/images/gambar-wanita-blk_ctapvoua.png",
+      "src": "https://raw.githubusercontent.com/adityaaresta5/smart_notes_GPT/main/assets/images/gambar-wanita-blk_k7rk6sgq.png",
       "alt": "Pasted image",
       "content": "",
-      "width": 176,
-      "height": 300
+      "width": 159,
+      "height": 287
     }
   ]
 }
